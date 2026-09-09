@@ -1,4 +1,4 @@
-# 🚀 Tech Stack Recommender
+# Tech Stack Recommender
 
 ## Artificial Intelligence - Project 3
 
